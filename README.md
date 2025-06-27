@@ -114,7 +114,7 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-I really liked how everyone did the store to represent their university specific store. I believe my presentation went well.
+   - I really liked how everyone did the store to represent their university specific store. I believe my presentation went well.
 
 ### Open-source libraries used
 
