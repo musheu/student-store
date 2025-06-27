@@ -98,8 +98,15 @@ Submitted by: **Paola Negrón**
 ### Walkthrough Video
 
 `ADD_EMBEDDED_CODE_HERE`
-<div style="position: relative; padding-bottom: 64.55089820359281%; height: 0;"><iframe src="https://www.loom.com/embed/3264bcae892547a88768fd0bbd966728?sid=01a35444-ed79-4b90-8b7e-b83111b010ee" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+Part 1: 
+<div>
+    <a href="https://www.loom.com/share/3264bcae892547a88768fd0bbd966728">
+      <p>Videos | Library | Loom - 26 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3264bcae892547a88768fd0bbd966728">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3264bcae892547a88768fd0bbd966728-a73e7632fb7beee7-full-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
