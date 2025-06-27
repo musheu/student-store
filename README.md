@@ -116,6 +116,15 @@ Submitted by: **Paola Negrón**
     </a>
   </div>
 
+  <div>
+    <a href="https://www.loom.com/share/a65dee916f524481b5f83fc5630cc759">
+      <p>[NEW] Part 3 - Re-submission for Post/Put Orders API'S - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a65dee916f524481b5f83fc5630cc759">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a65dee916f524481b5f83fc5630cc759-6d96b2304871ceee-full-play.gif">
+    </a>
+  </div>
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
