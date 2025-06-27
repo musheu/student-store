@@ -98,10 +98,9 @@ Submitted by: **Paola Negrón**
 ### Walkthrough Video
 
 `ADD_EMBEDDED_CODE_HERE`
-Part 1: 
-<div>
+  <div>
     <a href="https://www.loom.com/share/3264bcae892547a88768fd0bbd966728">
-      <p>Videos | Library | Loom - 26 June 2025 - Watch Video</p>
+      <p>Part 1 - Paola Negrón - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/3264bcae892547a88768fd0bbd966728">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3264bcae892547a88768fd0bbd966728-a73e7632fb7beee7-full-play.gif">
