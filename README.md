@@ -107,6 +107,15 @@ Submitted by: **Paola Negrón**
     </a>
   </div>
 
+  <div>
+    <a href="https://www.loom.com/share/b7a9f774b3b14fe08a4b884cdb84a6c9">
+      <p>Part 2 - Paola Negrón - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b7a9f774b3b14fe08a4b884cdb84a6c9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7a9f774b3b14fe08a4b884cdb84a6c9-73c126a4d5f1ff97-full-play.gif">
+    </a>
+  </div>
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
